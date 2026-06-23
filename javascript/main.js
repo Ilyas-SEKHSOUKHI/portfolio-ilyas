@@ -55,8 +55,8 @@ function Formation() {
 
         <article>
             <h3>Université Mundiapolis</h3>
-            <p><strong>Filière :</strong> Classe préparatoire – Cycle ingénieur en informatique</p>
-            <p><strong>Période :</strong> 2023 - En cours</p>
+            <p><strong>Filière :</strong> Cycle ingénieur en informatique</p>
+            <p><strong>Période :</strong> 2023 - 2028</p>
             <p>
                 Actuellement en première année de classe préparatoire en informatique,
                 avec une formation axée sur les bases de l’ingénierie, la programmation
